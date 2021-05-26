@@ -1,2 +1,2 @@
 # learningJava
-Learning java and uploading soe code here
+Learning java and uploading soMe code here
